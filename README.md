@@ -1,14 +1,11 @@
-# smartHead
+# people-info-CRUD
 
-This template should help get you started developing with Vue 3 in Vite.
+[Preview](https://dimakobzar7.github.io/peopleInfoCRUD/)
 
-## Recommended IDE Setup
+# Technology stack:
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+JS, Vue.js, Pinia, Vite, SCSS, HTML
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
