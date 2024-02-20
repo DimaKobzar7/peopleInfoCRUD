@@ -6,6 +6,19 @@
 
 JS, Vue.js, Pinia, Vite, SCSS, HTML
 
+# Project capabilities
+
+CRUD operations are available using reqres.in/api
+
+Animations are made using the capabilities of view (TransitionGroup)
+
+Users are filtered by the fields "first_name", "email", "last_name" and searched simultaneously in all these fields
+
+Custom form validation
+
+Ability to change user data through a modal window
+
+Data does not disappear after page reload (Implemented via local storage)
 
 ## Project Setup
 
